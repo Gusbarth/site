@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<title>Displug</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="versao2_pag1.css">
+	<link rel="stylesheet" type="text/css" href="teste-animation.css">
+</head>
+<body>
+
+<header>
+<nav id="menu">
+		<ul class="navbar">
+			<li><a class="link_do_menu" href="#home">HOME</a></li>
+			<li><a class="link_do_menu" href="#sobre">SOBRE</a></li>
+			<li><a class="link_do_menu" href="#fobia">NOMOBILEFOBIA</a></li>
+			<li><a class="link_do_menu" href="#uso">USO CONSCIENTE</a></li>
+			<li><a class="link_do_menu" href="#detox">"DETOX DIGITAL"</a></li>
+			<li><a class="link_do_menu" href="#saiba-mais">SAIBA MAIS</a></li>
+		</ul>
+	</nav>
+</header>	
+
+<main>
+<div class="container-fluid pagina home" id="home">
+	<article class="home"> 
+<img src="./imagens/imagem_tela_principal.png" alt="laptop-vetorizado" class="laptop">
+<img src="https://img.icons8.com/ios/50/000000/chevron-down.png" alt="seta" class="icone">
+	</article>
+</div>
+
+<section id="onepage_site"> 
+	<div class="container-fluid pagina2">
+		<div class="row" id="sobre">
+			<div class="texto-sobre col-sm-12 col-lg-6">
+				<h1 class="subtitulo"> O QUE É </h1>
+				<p class="texto-o-que-e"> Uma pessoa dependente é alguém com um comportamento que chega a um ponto onde a mesma não consegue controlar-se e ficar sem algo, nesse caso seria a tecnologia. Em relação as outras dependências há algumas semelhanças, um de vários exemplos disso é no fato de que pode afetar o relacionamento com as pessoas que estão perto. Tal dependência chega a um nível, no qual a pessoa perde o controle da sua vida real e se prejudica em sua vida e na das outras a seu redor. </p>
+				<p>Uma pessoa dependente é alguém com um comportamento que chega a um ponto onde a mesma não consegue controlar-se e ficar sem algo, nesse caso seria a tecnologia. Em relação as outras dependências há algumas semelhanças, um de vários exemplos disso é no fato de que pode afetar o relacionamento com as pessoas que estão perto. Tal dependência chega a um nível, no qual a pessoa perde o controle da sua vida real e se prejudica em sua vida e na das outras a seu redor. </p>
+				<h2 class="tipos"> TIPOS </h2>
+				<ul class="circulo">
+					<li>TECNOLOGICA;</li>
+					<li>EMOCIONAL;</li>
+					<li>DROGAS LICITAS;</li>
+					<li>DROGRAS ILICITAS;</li>
+					<li>DEPENDENCIA DE FARMACOS;</li>
+				</ul>
+			</div>	
+			
+		  	 <div class="imagem-celular col-sm-6 col-lg-6">
+		  	 	<img src="./imagens/imagem_celular_falas.png" alt="imagem de um celular com balao de falas" class="imagem-celular-falas img-fluid">
+		  	</div>
+		</div>	
+	</div>	 	
+</section>
+
+<section class="detalhe"> 
+	<div class="container-fluid">
+		<div class="row nomo" id="fobia">
+			<div class="col-sm-12 col-lg-12 nomo-titulo">
+				<h1 class="no-mobile-fobia"> NO MOBILE FOBIA </h1>
+					<p class="texto-nomofobia">Nomofobia é uma recente expressão que está sendo muito utilizada ultimamente quando se fala em dependência das tecnologias atuais. Recentemente reconhecida como uma doença pela Organização Mundial da Saúde, a Nomofobia é uma doença na qual a pessoa não consegue deixar de usar algum aparelho, jogo, rede social, telefone e deixa de ter controle da sua própria vida e consequentemente acaba afetando as relações familiares, afetivas ou socias e também na vida profissional.</p>	
+			</div>	
+		</div>
+	</div>	
+</section>
+
+
+<section id="uso-consciente"> 
+	<div class="container-fluid pagina4">
+		<div class="row" id="uso">
+			<div class="col-sm-12 col-lg-12"> 
+			<h1 class="subtitulo"> USO CONSCIENTE </h1>
+			<dl>
+				<dt> SONO </dt>
+  				<dd>Desligue o celular, deixe no silencioso ou longe de seu alcance;</dd>
+  				<dt> REFEIÇÕES </dt>
+  				<dd>Deixe no modo silencioso e de atenção a pessoa que está com você;</dd>
+  				<dt> CARRO </dt>
+  				<dd>Deixe no modo silencioso e evite mandar mensagens por questões de segurança;</dd>	
+  				<dt> REDES SOCIAS </dt> 
+ 				<dd>Diminuir seus amigos virtuais nas redes socias, curtidas ou seguidores NÃO são sinônimos de sucesso ou popularidade;</dd>
+ 				<dd>Diminuir seus amigos virtuais nas redes socias, curtidas ou seguidores NÃO são sinônimos de sucesso ou popularidade;</dd>
+ 				<dd>Use sua disciplina a seu favor e crie horários para entrar nas redes sociais, internet e usar o celular;</dd>	
+ 			</dl>
+			</div>
+		</div>
+	</div>		
+</section>
+
+<section id="texto-detox"> 
+	<div class="container-fluid pagina5"> 
+		<div class="row" id="detox">
+			<div class="col-sm-12 col-lg-12">
+				<h1 class="subtitulo"> "DETOX DIGITAL" </h1>
+				<ul class="quadrado">
+					<li class="i">Uso do bom senso para não se tornar abusivo;</li>
+					<li class="i">Prestar atenção nas consequências físicas e psicológica, como sono, postura, problemas de visão, depressão, ansiedade, etc;</li>
+					<li class="i">Definir horários para o uso durante o dia nas redes socias e celular;</li>
+					<li class="i">Refletir sobre seu uso atual da tecnologia e muda-lo para melhor;</li>
+					<li class="i">Não trocar compromissos, atividades, eventos para ficar conectado;</li>
+					<li class="i">Não trocar sua vida social e amigos pelo virtual;</li>
+					<li class="i">Praticar atividade física regularmente;</li>
+					<li class="i">Não abale seu humor por menos curtidas e seguidores nas suas publicações;</li>
+					<li class="i">Não acredite em tudo o que ler na internet principalmente nesse mundo recente das fake News;</li>
+					<li class="i">Valorize suas relações com as pessoas fora do ambiente virtual;</li>
+				</ul>	
+			</div>
+		</div>
+	</div>	
+</section>
+
+<section id="texto-saiba-mais">
+	<div class="container-fluid pagina6" id="grad1">
+		<div class="row" id="saiba-mais">
+			<div class="col-sm-6"> 
+				<h1 class="subtitulo-sabemos"> O QUE SABEMOS </h1>
+				<ul class="a">
+  					<li class="b">Meninos ,em geral, têm mais problemas devido aos jogos, enquanto as meninas ,em geral, fazem uso mais intenso das redes sociais;</li>
+  					<li class="b">Os prejuízos mais observados são: piora importante no desempenho escolar, isolamento social e conflitos familiares;</li>
+  					<li class="b">A maioria dos jovens que se encontra nessa condição apresenta também outros problemas que necessitam atenção. Os mais comuns são depressão, ansiedade social, déficit de atenção/hiperatividade e agressividade;</li>
+ 					<li class="b">Para a grande maioria dos jovens, o uso intenso e os prejuízos decorrentes tendem a se manter ao longo do tempo, não sendo apenas uma “fase passageira”;</li>
+ 					<li class="b">Nomofobia (No Mobile Fobia);</li>
+				</ul>
+			</div>
+
+			<div class="col-sm-6 nao sabemos">
+				<h1 class="subtitulo-sabemos"> NÃO SABEMOS </h1>
+					<ul class="a"> 
+						<li class="b">Como estabelecer critérios diagnósticos sobre a doença que sejam confiáveis e uteis devido à recente descoberta;</li>
+						<li class="b">Há poucos estudos que confirma as bases neurobiológicas desse transtorno;</li>
+						<li class="b">Não sabemos ao certo sobre as influências do uso das novas tecnologias durante o crescimento das crianças e adolescentes;</li>
+					</ul>
+
+
+			</div>	
+		</div>
+	</div>	
+</section>
+</main>
+
+
+</body>
+</html>
